@@ -13,7 +13,17 @@
 	</div>
 	<div>
 		<H2>Git init</H2>
-		<div><img src="images/git init" alt="git init"></div>
+		<div><img src="images/Git init" alt="git init"></div>
+	</div>
+
+	<div>
+		<H2>Git Status</H2>
+		<div><img src="images/Git Status" alt="git status"></div>
+	</div>
+
+	<div>
+		<H2>Git Add</H2>
+		<div><img src="images/Git Add" alt="git add"></div>
 	</div>
 
 	
