@@ -7,7 +7,16 @@
   </head>
 
   <body>
-	<H1>Let's learn Git and GitHub</H1>
+	<div>
+		<H1>Let's learn Git and GitHub</H1>
+		<H1>Gib HUb Overview</H1>
+	</div>
+	<div>
+		<H2>Git init</H2>
+		<div><img src="images/git init" alt="git init"></div>
+	</div>
+
+	
   </body>
 
 </html>
