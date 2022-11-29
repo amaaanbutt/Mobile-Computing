@@ -14,6 +14,9 @@
 	<div>
 		<H2>Git init</H2>
 		<div><img src="images/Git init" alt="git init"></div>
+		<div>
+			<p>The git init command creates a new Git repository.</p>
+		</div>
 	</div>
 
 	<div>
