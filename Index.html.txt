@@ -32,12 +32,14 @@
 	
 	<div>
 		<H2>GitHub Repository</H2>
-		<div><img src="images/GitHub Repository alt="GitHub Repository"></div>
+		<div><img src="images/GitHub Repository alt="Git_Repository"></div>
+		<div>Github Repsitory works as a folder where all of your data / code will be pushed OR pulled.</div>
 	</div>
 	
 	<div>
 		<H2>Git Clone</H2>
 		<div><img src="images/Git Clone" alt="Git Clone"></div>
+		<div>As name sugggest, clone will make a clone (COPY) of the selected version of the code.</div>
 	</div>
 	
   </body>
